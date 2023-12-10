@@ -1,0 +1,25 @@
+{
+  "name": "fast-food-api",
+  "version": "1.0.0",
+  "description": "API to manage the request of a restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-de-Brito/fast-food-api.git"
+  },
+  "keywords": [
+    "node.js",
+    "typescript",
+    "jest",
+    "api"
+  ],
+  "author": "Gustavo de Brito Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-de-Brito/fast-food-api/issues"
+  },
+  "homepage": "https://github.com/Gustavo-de-Brito/fast-food-api#readme"
+}
